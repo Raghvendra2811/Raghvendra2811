@@ -7,7 +7,9 @@
 <div align="center">
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
 </div>  
-  
+<div  width= align="center">
+<img src="https://komarev.com/ghpvc/?username=Raghvendra2811&&style=flat-square" align="center" />
+</div>
 
 - 🔭 I’m currently working on my personal development  
   
@@ -86,9 +88,7 @@
 
   
 
-<div  width= align="center">
-<img src="https://komarev.com/ghpvc/?username=Raghvendra2811&&style=flat-square" align="center" />
-</div>  
+  
   
 
 <br/>  
